@@ -1,5 +1,4 @@
-//Sagnik Project
-
+//Sagnik Project..
 class Main
 {
     static int factorial(int n)
