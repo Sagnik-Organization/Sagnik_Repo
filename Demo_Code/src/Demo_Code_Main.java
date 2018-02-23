@@ -19,7 +19,7 @@ class Main
         int temp = n;
         while (temp != 0)
         {   
-            sum += factorial(temp%10);
+            sum += factorial(temp%10); // Modifications made for Requirement ID: 8
  
             
             temp = temp/10;
