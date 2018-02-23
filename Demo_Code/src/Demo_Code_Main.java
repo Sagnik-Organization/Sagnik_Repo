@@ -1,4 +1,4 @@
-//Sagnik Project....
+
 class Main
 {
     static int factorial(int n)
@@ -19,7 +19,7 @@ class Main
         int temp = n;
         while (temp != 0)
         {   
-            sum += factorial(temp%10); // Modifications made for Requirement ID: 8 
+            sum += factorial(temp%10); // Modifications made for Requirement ID: 9 
  
             
             temp = temp/10;
